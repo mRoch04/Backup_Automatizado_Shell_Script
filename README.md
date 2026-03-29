@@ -26,3 +26,15 @@ Desenvolver um script em Shell Script para automatizar o backup de arquivos e pa
 - Copia recursivamente mantendo a estrutura de pastas
 - Exibe detalhes de cada arquivo copiado
 - Exibe mensagem de sucesso com a quantidade de itens
+
+---
+## 📚 Aprendizados
+Automação: Redução de tempo em tarefas repetitivas
+
+Tratamento de erros: Prevenção de falhas com verificações
+
+Shell Script: Uso de variáveis, condicionais e comandos do sistema
+
+Boas práticas: Código comentado, tratamento de caminhos com $HOME
+
+
